@@ -62,8 +62,8 @@ return {
             SkyboxUp = "rbxassetid://5084576400",
         },
         ["Hitsound"] = {
-            ["Default (Head)"] = "rbxassetid://9119561046",
-            ["Default (Body)"] = "rbxassetid://9114487369",
+            ["DefaultH"] = "rbxassetid://9119561046",
+            ["DefaultB"] = "rbxassetid://9114487369",
             ["Rust"] = "rbxassetid://1255040462",
             ["Neverlose"] = "rbxassetid://8726881116",
             ["Click"] = "rbxassetid://8053704437",
